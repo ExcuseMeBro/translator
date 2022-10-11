@@ -1,0 +1,6 @@
+{
+  "appId": "uz.itforelead.app",
+  "appName": "translator",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
